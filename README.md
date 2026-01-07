@@ -15,7 +15,7 @@ This isn't just a simple script; it's a demonstration of **Game Loop Architectur
 * **Collision Physics:** Includes logic for wall-boundary detection and self-collision (where the snake's head intersects with its own body array).
 * **Responsive Engine:** The board uses CSS Variables (`--game-board-size`) and `calc()` to ensure the grid remains perfectly square and playable on mobile, tablet, and desktop screens.
 * **Advanced Input Handling:** Implements "Input Buffering" logic to prevent the player from crashing by turning 180 degrees into their own neck.
-
+![Snake Game Preview](screenshot.png)
 ---
 
 ## 🛠️ Technical Architecture
